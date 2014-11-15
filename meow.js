@@ -1,3 +1,4 @@
+<script type="application/javascript">
 API.on(API.CHAT_COMMAND, callback);
 
 function callback(value) {
